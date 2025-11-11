@@ -30,6 +30,3 @@ Setiap anggota kelompok melakukan **web scraping berbasis API** pada berbagai su
 | **json** | Mengonversi response API ke dalam format JSON Python |
 | **pandas** | Menyusun, menormalisasi, dan menganalisis data ke dalam bentuk tabel (DataFrame) |
 | **gdown** | Mengunduh file JSON dari Google Drive jika data API disimpan secara lokal |
-
-- **Tujuan:** Menganalisis tren harga dan penawaran handphone.  
-- **API URL:**  
